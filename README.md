@@ -1,2 +1,2 @@
 # torche
-Highly performant auto PyTorch feed forward neural network with scikit-learn API.
+Highly performant regularized auto PyTorch feed forward neural network with scikit-learn API.
